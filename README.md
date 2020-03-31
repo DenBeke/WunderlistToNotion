@@ -2,6 +2,7 @@
 
 Converts Wunderlist JSON dump to a CSV file that can be imported into Notion.
 
+⚠️ This is a work in progress. Backup the files you run it on and run it on your own risk. ⚠️
 
 ## Usage
 
